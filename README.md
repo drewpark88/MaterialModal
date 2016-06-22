@@ -1,15 +1,14 @@
-<<<<<<< HEAD
-# FastShell
-[![Build Status](https://travis-ci.org/HosseinKarami/fastshell.png?branch=master)](https://travis-ci.org/HosseinKarami/fastshell)
 
-inspired by [FireShell](http://getfireshell.com)
-Fiercely quick front-end boilerplate and workflows.
+# MaterialModal
+[![Build Status](https://travis-ci.org/drewpark88/materialmodal.png?branch=master)](https://travis-ci.org/drewpark88/materialmodal)
+
+inspired by [Material Design](https://material.google.com/)
+MaterialModal is a simple, yet effective modal for your Material needs.
 
 The opinionated FastShell framework. Built for the modern developer. For teams and the individual, encouraging a better workflow. JavaScript task running, build processes, autominification and file concatenation, wrapped with an enhanced HTML5 boilerplated framework.
 
-* Source: [github.com/HosseinKarami/fastshell](http://github.com/HosseinKarami/fastshell)
-* Documentation: [DOCS.md](https://github.com/HosseinKarami/fastshell/blob/master/DOCS.md)
-* HomePage: [Fastshell](https://HosseinKarami.github.io/fastshell)
+* Source: [github.com/drewpark88/materialmodal](http://github.com/drewpark88/materialmodal)
+* HomePage: [MaterialModal](https://github.com/drewpark88/materialmodal)
 
 
 ## License
