@@ -1,11 +1,24 @@
 
 # MaterialModal
-[![Build Status](https://travis-ci.org/drewpark88/materialmodal.png?branch=master)](https://travis-ci.org/drewpark88/materialmodal)
 
-inspired by [Material Design](https://material.google.com/)
-MaterialModal is a simple, yet effective modal for your Material needs.
+inspired by [Material Design](https://material.google.com/),
+MaterialModal is the perfect modal for your projects.
 
-The opinionated FastShell framework. Built for the modern developer. For teams and the individual, encouraging a better workflow. JavaScript task running, build processes, autominification and file concatenation, wrapped with an enhanced HTML5 boilerplated framework.
+## Installation
+
+*1. Add the following CSS to your Header:*
+
+
+```
+<link href="assets/js/materialmodal.css" rel="stylesheet">
+```
+
+*1. Add the following JS to your Footer:*
+
+```
+<script src="assets/js/materialmodal.min.js"></script>
+```
+
 
 * Source: [github.com/drewpark88/materialmodal](http://github.com/drewpark88/materialmodal)
 * HomePage: [MaterialModal](https://github.com/drewpark88/materialmodal)
@@ -15,7 +28,7 @@ The opinionated FastShell framework. Built for the modern developer. For teams a
 
 #### The MIT License (MIT)
 
-Copyright (c) FastShell
+Copyright (c) MaterialModal
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
